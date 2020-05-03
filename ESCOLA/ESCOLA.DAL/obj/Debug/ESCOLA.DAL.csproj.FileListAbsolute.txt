@@ -1,0 +1,16 @@
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DAL.dll.config
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DAL.dll
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DAL.pdb
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DTO.dll
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DTO.pdb
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\ESCOLA.DTO.dll.config
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.csprojAssemblyReference.cache
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.Properties.Resources.resources
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.csproj.GenerateResource.cache
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.csproj.CopyComplete
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.dll
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\obj\Debug\ESCOLA.DAL.pdb
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\log4net.dll
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\log4net.xml
+C:\Users\Paulo\OneDrive\Documentos\Visual Studio 2019\Projects\ESCOLA\ESCOLA.DAL\bin\Debug\log4net.Ext.Json.dll

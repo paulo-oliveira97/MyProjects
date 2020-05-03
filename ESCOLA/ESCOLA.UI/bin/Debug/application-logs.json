@@ -1,0 +1,88 @@
+{"date":"2020-05-03T18:17:18.5980087-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:17:18.7870046-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:17:19.9610081-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:17:21.4020223-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:17:21.9983394-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:17:29.7167912-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Usu\u00E1rio cadastrado"}
+{"date":"2020-05-03T18:17:29.7267862-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:17:35.5506231-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T18:17:35.5596271-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:17:38.9213203-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T18:17:38.9313202-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:17:41.8548844-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T18:20:17.2681243-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:20:17.4151229-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:20:18.4421248-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:20:20.4301197-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:20:20.8631961-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:20:22.5903258-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T18:25:31.3336498-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:25:31.5326472-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:25:55.6891735-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:25:55.8331813-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:25:57.7961855-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:25:59.4762927-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:25:59.8835314-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:26:05.4746189-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T18:26:05.4856273-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:26:08.0242502-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T18:30:29.9831523-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:30:30.1321538-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:30:31.7951517-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:30:34.9305702-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:30:35.4076355-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:30:39.3316353-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T18:30:39.3416339-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:30:40.9429766-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T18:33:14.8533287-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:33:15.0213289-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:33:16.3893277-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:33:18.0330165-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:33:18.5794550-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:33:25.7708422-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T18:33:25.7808602-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:33:28.1752755-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T18:34:55.5936476-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T18:34:55.7796523-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T18:34:57.4331582-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T18:35:00.4269732-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T18:35:00.8203930-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:35:04.5687878-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T18:35:04.5777918-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T18:35:06.2534795-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T19:18:16.6552318-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T19:18:16.8692384-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T19:18:22.1074695-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T19:18:23.7575087-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T19:18:24.2208360-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:18:35.4176304-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Usu\u00E1rio cadastrado"}
+{"date":"2020-05-03T19:18:35.4266301-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:18:43.8979405-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T19:18:43.9059375-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:18:46.7808930-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T19:18:46.7918875-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:18:58.9452739-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T19:29:08.2014935-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T19:29:08.6424981-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T19:29:11.5395035-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T19:29:15.0661758-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T19:29:18.9546967-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:29:29.7841745-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Usu\u00E1rio cadastrado"}
+{"date":"2020-05-03T19:29:29.7931692-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:29:36.8491389-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio alterados"}
+{"date":"2020-05-03T19:29:36.8561347-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:29:40.6412279-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T19:29:40.6502231-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:29:50.7508253-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
+{"date":"2020-05-03T19:36:49.1765217-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.Program","thread":"1","message":"Inicializando aplica\u00E7\u00E3o"}
+{"date":"2020-05-03T19:36:49.3145184-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmSplash","thread":"1","message":"Aplica\u00E7\u00E3o iniciada"}
+{"date":"2020-05-03T19:36:50.5795136-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Form principal iniciado"}
+{"date":"2020-05-03T19:36:52.3331686-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Form CadUser carregado"}
+{"date":"2020-05-03T19:36:52.8199265-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:36:54.9270482-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T19:36:54.9360447-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:36:56.8302755-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T19:36:56.8399050-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:36:58.5507457-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rio exclu\u00EDdos"}
+{"date":"2020-05-03T19:36:58.5587510-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmCadUser","thread":"1","message":"Dados de usu\u00E1rios carregados"}
+{"date":"2020-05-03T19:37:00.4283680-03:00","level":"INFO","appname":"ESCOLA.exe","logger":"ESCOLA.UI.frmMDI","thread":"1","message":"Aplica\u00E7\u00E3o encerrada"}
